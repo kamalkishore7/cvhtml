@@ -1,37 +1,96 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/kamalkishore7/cvhtml/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>kamal's Personal Site</title>
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
 
-### Markdown
+<body>
+  <table cellspacing='20'>
+    <tr>
+      <td><img class="circular"src="20200206_082230.jpg" width="100" height="121">
+        </td>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+      <td>
+        <h1>kamal kishore M</h1>
+        <p><em>MSc digital Marketing and Channel Management at <strong><a href="https://www.surrey.ac.uk/">University of Surrey</a></strong>.</em></p>
+        <p>I am from Chennai,India.</p>
+      </td>
+    </tr>
+  </table>
 
-- Bulleted
-- List
+<hr>
 
-1. Numbered
-2. List
+  <h3>Education</h3>
+  <ul>
+    <li>Bachelors in Business Administration at Amity Global Business School,India</li>
+    <li>MSc Digital Marketing and Channel Management at University of Surrey,UK</li>
+  </ul>
 
-**Bold** and _Italic_ and `Code` text
+<hr>
 
-[Link](url) and ![Image](src)
-```
+  <h3>Work Experience(Internships)</h3>
+  <table cellspacing='20'>
+    <tr>
+      <th>Dates</th>
+      <th>Work</th>
+    </tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <tr>
+      <td>2018</td>
+      <td> Marketing Intern at Hexaware</td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>Digital marketing Intern at Zen Class(GUVI) </td>
+    </tr>
+  </table>
 
-### Jekyll Themes
+<hr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamalkishore7/cvhtml/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  <h3>Skills</h3>
+  <table cellspacing='10'>
+    <tr>
+      <td>Art</td>
+      <td>⭐⭐⭐</td>
+      <td>Cooking</td>
+      <td>⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td>Photography</td>
+      <td>⭐⭐</td>
+      <td>Sports</td>
+      <td>⭐⭐⭐</td>
+    </tr>
+  </table>
+  <hr>
 
-### Support or Contact
+    <h3>Hobbies</h3>
+    <ul>
+      <li>-Sports</li>
+      <li>-Travelling</li>
+      <li>-Art</li>
+      <li>-Reading</li>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    </ul>
+
+  <hr>
+  <hr>
+<h3>Contact Me</h3>
+<ul>
+  <li>-km01276@surrey.ac.uk</li>
+    </ul>
+  <hr>
+
+    <h3>THANK YOU</h3>
+
+  <hr>
+</body>
+
+</html>
+
